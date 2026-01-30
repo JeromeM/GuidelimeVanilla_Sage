@@ -1,0 +1,31 @@
+## Interface: 11200
+## Title: Guidelime Vanilla - Sage Guide
+## Notes: Sage 1-60 Alliance leveling guides for Guidelime Vanilla
+## Author: Sage
+## Version: 1.0.0
+## Dependencies: GuidelimeVanilla
+
+init.lua
+Sage_Guide_1-11_Dun_Morogh.lua
+Sage_Guide_1-11_Elwynn_Forest.lua
+Sage_Guide_1-11_Teldrassil.lua
+Sage_Guide_11-13_Loch_Modan.lua
+Sage_Guide_11-19_Darkshore.lua
+Sage_Guide_12-14_Westfall.lua
+Sage_Guide_14-17_Loch_Modan.lua
+Sage_Guide_19-20_Redridge.lua
+Sage_Guide_20-23_Duskwood.lua
+Sage_Guide_23-24_Wetlands.lua
+Sage_Guide_24-25_Ashenvale.lua
+Sage_Guide_25-28_Wetlands.lua
+Sage_Guide_28-30_Duskwood.lua
+Sage_Guide_30-31_Hillsbrad.lua
+Sage_Guide_31-32_Thousand_Needles.lua
+Sage_Guide_32-32_Stranglethorn.lua
+Sage_Guide_32-33_Hillsbrad.lua
+Sage_Guide_33-35_Desolace.lua
+Sage_Guide_35-36_Dustwallow.lua
+Sage_Guide_36-37_Stranglethorn.lua
+Sage_Guide_37-38_Alterac.lua
+Sage_Guide_38-39_Arathi.lua
+Sage_Guide_39-40_Badlands.lua
