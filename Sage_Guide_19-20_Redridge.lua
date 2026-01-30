@@ -6,11 +6,6 @@ GLV:RegisterGuide(
 [GA Alliance]
 [OC]|cFFffffffRedridge|r
 
-[OC]====================================
-[OC]Current Quest Log: 1/20
-[OC]Darkshore
-|cFFFFFFFFO|r [QA943]
-[OC]====================================
 [OC][A Dwarf, Gnome, Night Elf]
 [A Dwarf, Gnome, Night Elf]Run northeast along the road to [TAR464], [QA244]
 [A Dwarf, Gnome, Night Elf]Grind northeast to [TAR1070], [QT244] [QA246]

@@ -6,20 +6,6 @@ GLV:RegisterGuide(
 [GA Alliance]
 [OC]|cFFffffffAshenvale|r
 
-[OC]====================================
-[OC]Current Quest Log: 8/20
-[OC]Darkshore
-|cFFFFFFFFO|r [QA943]
-[OC]Duskwood
-|cFFFFFFFFX|r [QA78]
-|cFFFFFFFFO|r [QA181]
-|cFFFFFFFFO|r [QA58]
-|cFFFFFFFFO|r [QA95]
-[OC]Wetlands
-|cFFFFFFFFO|r [QA484]
-|cFFFFFFFFO|r [QA281]
-|cFFFFFFFFO|r [QA275]
-[OC]====================================
 [OC]At Astranaar
 At [TAR3845], [QA1008]
 In the inn at [TAR3691] [QA991] [QA1054]

@@ -6,27 +6,6 @@ GLV:RegisterGuide(
 [GA Alliance]
 [OC]|cFFffffffArathi|r
 
-[OC]====================================
-[OC]Current Quest Log: 13/20
-[OC]Alterac Mountains
-|cFFFFFFFFX|r [QA554]
-[OC]Hillsbrad Foothills
-|cFFFFFFFFO|r [QA659]
-[OC]Ironforge
-|cFFFFFFFFO|r [QA707]
-[OC]Stranglethorn Vale
-|cFFFFFFFFO|r [QA603]
-|cFFFFFFFFO|r [QA628]
-|cFFFFFFFFO|r [QA202]
-|cFFFFFFFFO|r [QA193]
-|cFFFFFFFFO|r [QA196]
-|cFFFFFFFFO|r [QA600]
-|cFFFFFFFFO|r [QA209]
-|cFFFFFFFFO|r [QA621]
-[OC]Thousand Needles
-|cFFFFFFFFX|r [QA1106]
-|cFFFFFFFFX|r [QA1183]
-[OC]====================================
 [OC]In Refuge Pointe
 At [TAR2788], [QA691]
 [OC]At [TAR1471], [R][V]

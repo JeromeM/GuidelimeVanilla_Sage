@@ -6,20 +6,6 @@ GLV:RegisterGuide(
 [GA Alliance]
 [OC]|cFFffffffThousand Needles|r
 
-[OC]====================================
-[OC]Current Quest Log: 7/20
-[OC]Dustwallow Marsh
-|cFFFFFFFFX|r [QA1284]
-|cFFFFFFFFX|r [QA1253]
-|cFFFFFFFFX|r [QA1252]
-[OC]Hillsbrad Foothills
-|cFFFFFFFFO|r [QA555]
-|cFFFFFFFFO|r [QA563]
-[OC]Ironforge
-|cFFFFFFFFX|r [QA637]
-[OC]Thousand Needles
-|cFFFFFFFFX|r [QA1179]
-[OC]====================================
 [OC]Run southeast to Mirage Raceway
 [OC]On the gnome side
 At [TAR4452], [QA1110]

@@ -6,31 +6,6 @@ GLV:RegisterGuide(
 [GA Alliance]
 [OC]|cFFffffffAlterac|r
 
-[OC]====================================
-[OC]Current Quest Log: 16/20
-[OC]Alterac Mountains
-|cFFFFFFFFO|r [QA512]
-|cFFFFFFFFO|r [QA537]
-[OC]Hillsbrad Foothills
-|cFFFFFFFFO|r [QA659]
-[OC]Ironforge
-|cFFFFFFFFO|r [QA707]
-[OC]Scarlet Monastery
-|cFFFFFFFFO|r [QA1050]
-|cFFFFFFFFO|r [QA1053]
-[OC]Stranglethorn Vale
-|cFFFFFFFFX|r [QA602]
-|cFFFFFFFFO|r [QA628]
-|cFFFFFFFFO|r [QA202]
-|cFFFFFFFFO|r [QA193]
-|cFFFFFFFFO|r [QA196]
-|cFFFFFFFFO|r [QA600]
-|cFFFFFFFFO|r [QA209]
-|cFFFFFFFFO|r [QA621]
-[OC]Thousand Needles
-|cFFFFFFFFX|r [QA1106]
-|cFFFFFFFFX|r [QA1183]
-[OC]====================================
 [OC]Run northwest to Alterac Mountains toward Dalaran
 At [TAR2543], [QT602] [QA603]
 

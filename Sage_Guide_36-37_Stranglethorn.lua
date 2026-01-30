@@ -6,27 +6,6 @@ GLV:RegisterGuide(
 [GA Alliance]
 [OC]|cFFffffffStranglethorn Vale|r
 
-[OC]====================================
-[OC]Current Quest Log: 13/20
-[OC]Alterac Mountains
-|cFFFFFFFFX|r [QA525]
-[OC]Desolace
-|cFFFFFFFFX|r [QA1456]
-|cFFFFFFFFX|r [QA1052]
-[OC]Hillsbrad Foothills
-|cFFFFFFFFX|r [QA563]
-[OC]Stranglethorn Vale
-|cFFFFFFFFX|r [QA575]
-|cFFFFFFFFX|r [QA201]
-|cFFFFFFFFX|r [QA189]
-|cFFFFFFFFX|r [QA605]
-|cFFFFFFFFX|r [QA210]
-|cFFFFFFFFX|r [QA328]
-|cFFFFFFFFX|r [QA578]
-[OC]Thousand Needles
-|cFFFFFFFFX|r [QA1106]
-|cFFFFFFFFO|r [QA1115]
-[OC]====================================
 [OC]In Booty Bay
 [OC]At the bank
 [OC]|cFFe6cc80Deposit:|r [CI5539,0]

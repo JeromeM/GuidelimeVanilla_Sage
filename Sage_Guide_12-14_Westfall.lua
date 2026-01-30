@@ -6,14 +6,6 @@ GLV:RegisterGuide(
 [GA Alliance]
 [OC]|cFFffffffWestfall|r
 
-[OC]====================================
-[OC]Current Quest Log: 3/20
-[OC]Ironforge
-|cFFFFFFFFX|r [QA2039]
-[OC]Loch Modan
-|cFFFFFFFFO|r [QA237]
-|cFFFFFFFFO|r [QA273]
-[OC]====================================
 [OC]Run southwest across the bridge into Westfall
 At [TAR237], [QA64]
 At [TAR238], [QA36] [QA151]

@@ -6,13 +6,6 @@ GLV:RegisterGuide(
 [GA Alliance]
 [OC]|cFFffffffDuskwood|r
 
-[OC]====================================
-[OC]Current Quest Log: 2/20
-[OC]Darkshore
-|cFFFFFFFFO|r [QA943]
-[OC]Redridge Mountains
-|cFFFFFFFFX|r [QA143]
-[OC]====================================
 [OC]In Darkshire
 At [TAR3133], try buying 1 [CI4371,1] 8|cFFD0D2D7s|r
 Run southeast to the house to [TAR276], [QA174]

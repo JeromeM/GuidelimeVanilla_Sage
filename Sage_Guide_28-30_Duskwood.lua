@@ -6,18 +6,6 @@ GLV:RegisterGuide(
 [GA Alliance]
 [OC]|cFFffffffDuskwood|r
 
-[OC]====================================
-[OC]Current Quest Log: 6/20
-[OC]Duskwood
-|cFFFFFFFFX|r [QA78]
-|cFFFFFFFFO|r [QA181]
-|cFFFFFFFFO|r [QA58]
-|cFFFFFFFFO|r [QA95]
-[OC]Stormwind City
-|cFFFFFFFFX|r [QA1243]
-[OC]Thousand Needles
-|cFFFFFFFFX|r [QA1179]
-[OC]====================================
 [OC]In Darkshire
 [OC]In the inn at [TAR273]
 [QT78] [QA79]

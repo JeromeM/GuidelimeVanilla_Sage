@@ -6,16 +6,6 @@ GLV:RegisterGuide(
 [GA Alliance]
 [OC]|cFFffffffWetlands|r
 
-[OC]====================================
-[OC]Current Quest Log: 5/20
-[OC]Darkshore
-|cFFFFFFFFO|r [QA943]
-[OC]Duskwood
-|cFFFFFFFFX|r [QA78]
-|cFFFFFFFFO|r [QA181]
-|cFFFFFFFFO|r [QA58]
-|cFFFFFFFFO|r [QA95]
-[OC]====================================
 [OC]In Menethil Harbor
 Inside the inn at [TAR1464], Bind your Hearthstone to [S Menethil Harbor]
 [OC]|cFFa335eeFirst Aid:|r Upstairs in the inn at [TAR3181], level and train First Aid
