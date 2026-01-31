@@ -2,7 +2,7 @@
 ## Title: Guidelime Vanilla - Sage Guide
 ## Notes: Sage 1-60 Alliance leveling guides for Guidelime Vanilla
 ## Author: Sage
-## Version: 1.0.0
+## Version: 1.1.0
 ## Dependencies: GuidelimeVanilla
 
 init.lua
