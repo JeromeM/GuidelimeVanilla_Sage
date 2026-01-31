@@ -15,4 +15,12 @@ end
 GLV.guidePackAddons = GLV.guidePackAddons or {}
 GLV.guidePackAddons["Sage Guide"] = "GuidelimeVanilla_Sage"
 
+-- Register starting guides for each race (Alliance only for Sage Guide)
+GLV:RegisterStartingGuides("Sage Guide", {
+    ["Human"] = "Elwynn Forest",
+    ["Dwarf"] = "Dun Morogh",
+    ["Gnome"] = "Dun Morogh",
+    ["NightElf"] = "Teldrassil",
+})
+
 DEFAULT_CHAT_FRAME:AddMessage("|cFF00FF00[Sage Guide]|r Loaded successfully")
