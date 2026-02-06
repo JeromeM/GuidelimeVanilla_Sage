@@ -483,9 +483,10 @@ At [TAR1303], buy 1 [CI2665,1] 20|cFFC07A50c|r for later
 [A Rogue] Equip [UI2209] offhand
 At flightmaster [TAR352], Get the [P Stormwind City] flightpoint
 
-[OC]Consider other leveling options depending on your playstyle or continue questing:
-[OC]Dungeon Guide
-[OC][A Mage] Mage AOE Guide
+[OC]Classis WoW has different leveling options:
+[OC]1) Continue questing
+[OC]2) Dungeon Guide
+[OC]3) [A Mage] Mage AOE Guide
 
 [OC][A Human] |cFFfff8a3Fly from Stormwind to [F Lakeshire], eta 01:47|r
 [OC]Run east to Redridge

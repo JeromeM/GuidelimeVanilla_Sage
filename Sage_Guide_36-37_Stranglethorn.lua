@@ -6,6 +6,27 @@ GLV:RegisterGuide(
 [GA Alliance]
 [OC]|cFFffffffStranglethorn Vale|r
 
+[OC]====================================
+[OC]Current Quest Log: 13/20
+[OC]Alterac Mountains
+|cFFFFFFFFX|r [QA525]
+[OC]Desolace
+|cFFFFFFFFX|r [QA1456]
+|cFFFFFFFFX|r [QA1052]
+[OC]Hillsbrad Foothills
+|cFFFFFFFFX|r [QA563]
+[OC]Stranglethorn Vale
+|cFFFFFFFFX|r [QA575]
+|cFFFFFFFFX|r [QA201]
+|cFFFFFFFFX|r [QA189]
+|cFFFFFFFFX|r [QA605]
+|cFFFFFFFFX|r [QA210]
+|cFFFFFFFFX|r [QA328]
+|cFFFFFFFFX|r [QA578]
+[OC]Thousand Needles
+|cFFFFFFFFX|r [QA1106]
+|cFFFFFFFFO|r [QA1115]
+[OC]====================================
 [OC]In Booty Bay
 [OC]At the bank
 [OC]|cFFe6cc80Deposit:|r [CI5539,0]
@@ -115,22 +136,44 @@ At [TAR2439], [QT563]
 [OC]Run southwest to flightmaster [TAR2859]
 
 [OC]|cFFfff8a3Fly from Stormwind to [F Ironforge], eta 04:06|r
-[A Hunter] Learn [LE SP 3034], [LE SP 3662], [LE SP 14284]
-[A Hunter] Learn [LE SP 4192], [LE SP 24553], [LE SP 14303]
+[A Hunter] Learn [LE SP 13552]
+[A Hunter] Learn [LE SP 3034], [LE SP 3662], [LE SP 14284], [LE SP 14303]
+[A Hunter] Learn [LE SP 4192], [LE SP 24553]
 [A Hunter] Use [SP5149] to teach them to your pet
+[A Paladin] Learn [LE SP 19836], [LE SP 20306]
 [A Paladin] Learn [LE SP 5615], [LE SP 10299]
+[A Priest] Learn [LE SP 6064], [LE SP 1706], [LE SP 8105], [LE SP 2767], [LE SP 10880]
 [A Priest] Learn [LE SP 15264], [LE SP 2791], [LE SP 6066], [LE SP 6060], [LE SP 8192], [LE SP 988]
+[A Human, Dwarf] [A Priest] Learn [LE SP 19240]
+[A Rogue] Learn [LE SP 2094], [LE SP 6510], [LE SP 8696]
 [A Rogue] Learn [LE SP 8640], [LE SP 8691]
+[A Warlock] Learn [LE SP 7648], [LE SP 5699], [LE SP 17920]
 [A Warlock] Learn [LE SP 2362], [LE SP 3700], [LE SP 11687], [LE SP 7641]
+[A Warrior] Learn [LE SP 11554], [LE SP 8380]
 [A Warrior] Learn [LE SP 1680]
 From the Bank or Auction House, get 2 [CI5996,2] for later
 [OC]Run northeast to Hall of Explorers
 At [TAR5637], [QT1457]
 At [TAR1356], [QA707]
 |cFFFFFFFF(Dungeon)|r At [TAR3979], [QA1050]
-[OC]Run to  flightmaster [TAR1573]
 
-[OC]|cFFfff8a3Fly from Ironforge to [F Southshore], eta 04:10|r
+Level [SK First Aid 225] to 225
+[OC]|cFFa335eeFirst Aid 225:|r
+Near the flightmaster in the Ironforge Physician shop at [TAR5150], [QA6625]
+[OC]|cFFfff8a3Fly from Ironforge to [F Menethil Harbor], eta 02:02|r
+[OC]Run to the docks
+[OC]|cFFfff8a3Take the boat from Menethil Harbor to Theramore Isle, a boat shows up every 05:28.\\Craft bandages or fish while you wait.|r
+[OC]This quest is timed so hurry
+[OC]You must use Triage Bandage on 15 patients before 6 die
+[OC]Prioritize victims in this order: [TAR12937], [TAR12936], [TAR12938]
+Inside the keep at [TAR12939], [QT6625] [QA6624]
+Do [QC6624] (Use [UI16991] on 15 patients before 6 die)
+At [TAR12939], [QT6624]
+[OC]You will purchase other bandages here going forward
+Destroy [CI16991,0]
+[OC]|cFFfff8a3Take the boat from Theramore Isle to Menethil Harbor, a boat shows up every 05:28.\\Craft bandages or fish while you wait.|r
+
+[OC]|cFFfff8a3Fly from Menethil Harbor to [F Southshore], eta 01:41|r
 Outside the inn at [TAR2711], [QA659]
 Inside the inn at [TAR2352], Bind your Hearthstone to [S Southshore]
 Upstairs in the inn at [TAR3980], [QT1052], wait

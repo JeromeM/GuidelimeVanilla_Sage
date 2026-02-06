@@ -6,6 +6,27 @@ GLV:RegisterGuide(
 [GA Alliance]
 [OC]|cFFffffffBadlands|r
 
+[OC]====================================
+[OC]Current Quest Log: 13/20
+[OC]Arathi Highlands
+|cFFFFFFFFO|r [QA669]
+[OC]Badlands
+|cFFFFFFFFO|r [QA738]
+[OC]Loch Modan
+|cFFFFFFFFO|r [QA2500]
+[OC]Stranglethorn Vale
+|cFFFFFFFFO|r [QA603]
+|cFFFFFFFFO|r [QA628]
+|cFFFFFFFFO|r [QA202]
+|cFFFFFFFFO|r [QA193]
+|cFFFFFFFFO|r [QA196]
+|cFFFFFFFFO|r [QA600]
+|cFFFFFFFFO|r [QA209]
+|cFFFFFFFFO|r [QA621]
+[OC]Thousand Needles
+|cFFFFFFFFX|r [QA1106]
+|cFFFFFFFFX|r [QA1183]
+[OC]====================================
 [OC]Run south to the digsite camp [G 54,43 Badlands] (54, 43)
 At [TAR2860], [QA718]
 At [TAR2910], [QA719]

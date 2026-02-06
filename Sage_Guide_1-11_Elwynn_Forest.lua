@@ -232,10 +232,10 @@ At [TAR253], [QT112], wait, [QA114]
 [A Warrior]  Buy up to 10 [CI414,10] 1|cFFD0D2D7s|r25|cFFC07A50c|r
 |cFFa335eeFirst Aid:|r Upstairs at [TAR2329], learn [LE SP 3279]
 [OC]At [TAR240]
-[OC][QT39]
-[OC][QT76]
+[QT39]
+[QT76]
 [QA239]
-
+[QA109]
 At [TAR514], [QA1097]
 [OC]At [TAR54], [R][V]
 [A Mage] Learn [LE SP 205], [LE SP 118]
@@ -257,6 +257,7 @@ At [TAR238], [QA36]
 Inside the house at [TAR235], [QT36], skip follow up
 
 [OC]Take the east road to Sentinel Hill
+At [TAR234], [QT109], skip follow up
 At [TAR491], [QA6181]
 At [TAR8931],  Buy up to 40 [CI4592,40] 20|cFFC07A50c|r (84% savings)
 At flightmaster [TAR523], [QT6181] [QA6281]
@@ -264,7 +265,7 @@ Get the [P Sentinel Hill] flightpoint
 [XP10 Grind nearby until Level 10]
 
 [OC]|cFFffffffLevel 10|r
-|cFFfff8a3Fly from Sentinel Hill to [F Stormwind], eta 01:26|r
+[OC]|cFFfff8a3Fly from Sentinel Hill to [F Stormwind], eta 01:26|r
 In the Trade District at [TAR279], [QT61]
 [A Hunter] At [TAR5515], learn [LE SP 13165], [LE SP 13549], [LE SP 1494]
 [A Mage] At [TAR5497], learn [LE SP 7300], [LE SP 122], [LE SP 5504], [LE SP 5505]
@@ -289,7 +290,7 @@ At [TAR12997], [QT6661]
 
 [OC]In Ironforge
 At the Great Forge at flightmaster [TAR1573], Get the [P Ironforge] flightpoint
-[A Paladin] In Ironforge at the Military Ward at [TAR11865], learn [LE SP 15985] 10|cFFD0D2D7s|r
+[A Paladin] In Ironforge at the Military Ward at [TAR11865], learn [LE SP 15987] [LE SP 15985] 10|cFFD0D2D7s|r
 [A Rogue] In Ironforge at the Military Ward at [TAR11865], learn [LE SP 15986] 10|cFFD0D2D7s|r
 [A Warrior] In Ironforge at the Military Ward at [TAR11865], learn [LE SP 15987] [LE SP 15985] 10|cFFD0D2D7s|r
 

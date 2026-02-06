@@ -6,6 +6,18 @@ GLV:RegisterGuide(
 [GA Alliance]
 [OC]|cFFffffffHillsbrad|r
 
+[OC]====================================
+[OC]Current Quest Log: 5/20
+[OC]Arathi Highlands
+|cFFFFFFFFO|r [QA647]
+[OC]Ironforge
+|cFFFFFFFFX|r [QA637]
+[OC]Stormwind City
+|cFFFFFFFFX|r [QA538]
+|cFFFFFFFFO|r [QA1264]
+[OC]Thousand Needles
+|cFFFFFFFFX|r [QA1179]
+[OC]====================================
 [OC]Run southwest to Southshore
 [OC]Inside the inn
 In the basement at [TAR2705], [QT647]

@@ -6,6 +6,27 @@ GLV:RegisterGuide(
 [GA Alliance]
 [OC]|cFFffffffDustwallow Marsh|r
 
+[OC]====================================
+[OC]Current Quest Log: 13/20
+[OC]Alterac Mountains
+|cFFFFFFFFX|r [QA525]
+[OC]Desolace
+|cFFFFFFFFX|r [QA1456]
+|cFFFFFFFFX|r [QA1052]
+[OC]Hillsbrad Foothills
+|cFFFFFFFFX|r [QA563]
+[OC]Stranglethorn Vale
+|cFFFFFFFFX|r [QA575]
+|cFFFFFFFFX|r [QA201]
+|cFFFFFFFFX|r [QA189]
+|cFFFFFFFFX|r [QA605]
+|cFFFFFFFFX|r [QA210]
+|cFFFFFFFFX|r [QA328]
+|cFFFFFFFFX|r [QA578]
+[OC]Thousand Needles
+|cFFFFFFFFX|r [QA1106]
+|cFFFFFFFFX|r [QA1112]
+[OC]====================================
 [OC]In Theramore Isle
 Run west to the first house to [TAR4897], buy 3 [CI3713,3]
 Run east to Foothold Citadel upstairs at [TAR4944], [QA1286]
@@ -76,6 +97,7 @@ At [TAR4454], [QT1114]
 Back at [TAR4452], [QA1115]
 [OC][A Mage] At [TAR6548], ! Rituals of Power
 [A Mage]Use [SP665]
+[A Mage]Learn [LE SP 8492], [LE SP 6117], [LE SP 8445]
 [A Mage]Learn [LE SP 8427], [LE SP 8402], [LE SP 8495]
 [OC][A Mage]|cFFfff8a3Fly from Stormwind to [F Booty Bay], eta 03:51|r
 [OC][A Mage]You are done with this segment, continue on the next segment

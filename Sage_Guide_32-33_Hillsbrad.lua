@@ -6,6 +6,25 @@ GLV:RegisterGuide(
 [GA Alliance]
 [OC]|cFFffffffHillsbrad|r
 
+[OC]====================================
+[OC]Current Quest Log: 12/20
+[OC]Hillsbrad Foothills
+|cFFFFFFFFO|r [QA555]
+|cFFFFFFFFO|r [QA563]
+[OC]Ironforge
+|cFFFFFFFFO|r [QA689]
+[OC]Stranglethorn Vale
+|cFFFFFFFFX|r [QA575]
+|cFFFFFFFFX|r [QA201]
+|cFFFFFFFFX|r [QA189]
+|cFFFFFFFFX|r [QA605]
+|cFFFFFFFFX|r [QA210]
+|cFFFFFFFFX|r [QA328]
+|cFFFFFFFFX|r [QA578]
+[OC]Thousand Needles
+|cFFFFFFFFO|r [QA1106]
+|cFFFFFFFFX|r [QA1112]
+[OC]====================================
 [OC]In Southshore
 Run southeast to the stables at [TAR2382], [QA564]
 [OC]At [TAR3543], [R][V]

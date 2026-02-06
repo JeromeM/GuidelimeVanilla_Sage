@@ -6,6 +6,20 @@ GLV:RegisterGuide(
 [GA Alliance]
 [OC]|cFFffffffAshenvale|r
 
+[OC]====================================
+[OC]Current Quest Log: 8/20
+[OC]Darkshore
+|cFFFFFFFFO|r [QA943]
+[OC]Duskwood
+|cFFFFFFFFX|r [QA78]
+|cFFFFFFFFO|r [QA181]
+|cFFFFFFFFO|r [QA58]
+|cFFFFFFFFO|r [QA95]
+[OC]Wetlands
+|cFFFFFFFFO|r [QA484]
+|cFFFFFFFFO|r [QA281]
+|cFFFFFFFFO|r [QA275]
+[OC]====================================
 [OC]At Astranaar
 At [TAR3845], [QA1008]
 In the inn at [TAR3691] [QA991] [QA1054]
@@ -38,8 +52,6 @@ Grind south back to [TAR3846], [QT1007], wait, [QA1009]
 [OC]You do NOT want to die here, be careful
 Do [QC1009] (Kill [TAR3943] for Ring of Zoram)
 Finish [QC1008] (Kill [TAR3717] (Slow) for 20 Wrathtail Head)
-
-[OC]|cFFFFFFFF(Dungeon)|r Blackfathom Deeps |cFFFF0000Optional:|r (Not recommended)
 
 Grind south back to [TAR3846], [QT1009]
 [A Mage, Priest, Warlock] Equip [UI5812]
@@ -112,5 +124,5 @@ In the inn at [TAR3691], [QT1025]
 [OC]*Discord:* tinyurl.com/sage-discord
 [OC]Copyright Tim Brown. All rights reserved.
 [OC]Check this box to proceed!
-[NX 25-28 Wetlands]
+[NX 25-27 Stockades]
 ]], "Sage Guide")

@@ -2,7 +2,7 @@
 ## Title: Guidelime Vanilla - Sage Guide
 ## Notes: Sage 1-60 Alliance leveling guides for Guidelime Vanilla
 ## Author: Sage
-## Version: 1.1.0
+## Version: 2.0.0
 ## Dependencies: GuidelimeVanilla
 
 init.lua
@@ -17,7 +17,8 @@ Sage_Guide_19-20_Redridge.lua
 Sage_Guide_20-23_Duskwood.lua
 Sage_Guide_23-24_Wetlands.lua
 Sage_Guide_24-25_Ashenvale.lua
-Sage_Guide_25-28_Wetlands.lua
+Sage_Guide_25-27_Stockades.lua
+Sage_Guide_27-28_Wetlands.lua
 Sage_Guide_28-30_Duskwood.lua
 Sage_Guide_30-31_Hillsbrad.lua
 Sage_Guide_31-32_Thousand_Needles.lua
@@ -29,3 +30,28 @@ Sage_Guide_36-37_Stranglethorn.lua
 Sage_Guide_37-38_Alterac.lua
 Sage_Guide_38-39_Arathi.lua
 Sage_Guide_39-40_Badlands.lua
+Sage_Guide_40-42_Stranglethorn.lua
+Sage_Guide_42-43_Swamp_of_Sorrows.lua
+Sage_Guide_43-44_Tanaris.lua
+Sage_Guide_44-46_Feralas.lua
+Sage_Guide_46-46_Hinterlands.lua
+Sage_Guide_46-47_Searing_Gorge.lua
+Sage_Guide_47-48_Blasted_Lands.lua
+Sage_Guide_48-49_Tanaris.lua
+Sage_Guide_49-49_Feralas.lua
+Sage_Guide_49-50_Felwood.lua
+Sage_Guide_50-50_Azshara.lua
+Sage_Guide_50-51_Western_Plaguelands.lua
+Sage_Guide_51-51_Burning_Steppes.lua
+Sage_Guide_51-51_Stranglethorn_Vale.lua
+Sage_Guide_51-53_Un'goro_Crater.lua
+Sage_Guide_53-53_Feralas,_Felwood.lua
+Sage_Guide_53-54_Winterspring.lua
+Sage_Guide_54-54_Burning_Steppes.lua
+Sage_Guide_54-55_Plaguelands.lua
+Sage_Guide_55-55_Loose_Ends.lua
+Sage_Guide_55-56_Winterspring.lua
+Sage_Guide_56-57_Plaguelands.lua
+Sage_Guide_57-58_Blackrock_Depths.lua
+Sage_Guide_58-59_Silithus.lua
+Sage_Guide_59-60_Winterspring.lua

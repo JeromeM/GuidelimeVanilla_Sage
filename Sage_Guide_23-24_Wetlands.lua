@@ -6,6 +6,16 @@ GLV:RegisterGuide(
 [GA Alliance]
 [OC]|cFFffffffWetlands|r
 
+[OC]====================================
+[OC]Current Quest Log: 5/20
+[OC]Darkshore
+|cFFFFFFFFO|r [QA943]
+[OC]Duskwood
+|cFFFFFFFFX|r [QA78]
+|cFFFFFFFFO|r [QA181]
+|cFFFFFFFFO|r [QA58]
+|cFFFFFFFFO|r [QA95]
+[OC]====================================
 [OC]In Menethil Harbor
 Inside the inn at [TAR1464], Bind your Hearthstone to [S Menethil Harbor]
 [OC]|cFFa335eeFirst Aid:|r Upstairs in the inn at [TAR3181], level and train First Aid
@@ -27,7 +37,6 @@ Do [QC276] (Kill 15 [TAR1007], 10 [TAR1008])
 
 [OC]|cFFffffffLevel 24|r
 
-
 [OC]Grind northwest back to the [TAR1244] [G 56.4,40.4 Wetlands] (56.4, 40.4)
 [QT276] [QA277]
 
@@ -36,6 +45,9 @@ Do [QC277] (Kill [TAR1010]for 9 Crude Flint)
 
 Grind northwest back to [TAR1244], [QT277] [QA275]
 
+[A Druid] Use [SP18960]
+[A Druid] Learn 24 skills: [LE SP 1822], [LE SP 8939], [LE SP 2782], [LE SP 1075], [LE SP 5217]
+
 |cFFfff8a3Hearth to [H Menethil Harbor] [V]|r
 Run west to the docks to [TAR1242], [QT279] [QA281]
 [OC]Run north to [TAR2094]
@@ -43,7 +55,14 @@ Run west to the docks to [TAR1242], [QT279] [QA281]
 [QA484]
 [OC]Run to the northwest dock
 
-[OC]|cFFFFFFFF(Dungeon)|r Blackfathom Deeps |cFFFF0000Optional:|r (Not recommended)
+[OC][A Mage, Paladin, Priest, Rogue, Warlock, Warrior] |cFFfff8a3Fly from Menethil Harbor to [F Ironforge], eta 01:24|r
+[A Mage, Paladin, Priest, Rogue, Warlock, Warrior][A Mage] Learn 24 skills: [LE SP 2139], [LE SP 8400], [LE SP 2121], [LE SP 990], [LE SP 2948]
+[A Mage, Paladin, Priest, Rogue, Warlock, Warrior][A Paladin] Learn 24 skills: [LE SP 19850], [LE SP 5588], [LE SP 5599], [LE SP 2878]
+[A Mage, Paladin, Priest, Rogue, Warlock, Warrior][A Priest] Learn 24 skills: [LE SP 15262], [LE SP 1245], [LE SP 3747]
+[A Mage, Paladin, Priest, Rogue, Warlock, Warrior][A Rogue] Learn 24 skills: [LE SP 6762]
+[A Mage, Paladin, Priest, Rogue, Warlock, Warrior][A Warlock] Learn 24 skills: [LE SP 6223]
+[A Mage, Paladin, Priest, Rogue, Warlock, Warrior][A Warrior] Learn 24 skills: [LE SP 6190], [LE SP 5308], [LE SP 1608]
+[OC][A Mage, Paladin, Priest, Rogue, Warlock, Warrior]|cFFfff8a3Fly from Ironforge to [F Menethil Harbor], eta 02:02|r
 
 [OC]|cFFfff8a3Take the boat from Menethil Harbor to Auberdine, a boat shows up every 04:55.\\Craft bandages or fish while you wait.|r
 [OC]Run east to flightmaster [TAR3841]

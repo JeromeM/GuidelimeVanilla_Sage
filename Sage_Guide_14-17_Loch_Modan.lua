@@ -6,6 +6,16 @@ GLV:RegisterGuide(
 [GA Alliance]
 [OC]|cFFffffffLoch Modan|r
 
+[OC]====================================
+[OC]Current Quest Log: 5/20 (If you have more quests don't worry)
+[OC]Darnassus
+|cFFFFFFFFX|r [QA952]
+|cFFFFFFFFX|r [QA967]
+[OC]Loch Modan
+|cFFFFFFFFX|r [QA1338]
+|cFFFFFFFFO|r [QA237]
+|cFFFFFFFFO|r [QA273]
+[OC]====================================
 In Thelsamar at the southeastern-most house at [TAR1105], [QA436]
 
 [A Paladin] At the dam northeast at [TAR222], try buying 1 [CI4778,1] 17|cFFD0D2D7s|r52|cFFC07A50c|r

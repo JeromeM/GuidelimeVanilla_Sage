@@ -6,6 +6,18 @@ GLV:RegisterGuide(
 [GA Alliance]
 [OC]|cFFffffffDuskwood|r
 
+[OC]====================================
+[OC]Current Quest Log: 6/20
+[OC]Duskwood
+|cFFFFFFFFX|r [QA78]
+|cFFFFFFFFO|r [QA181]
+|cFFFFFFFFO|r [QA58]
+|cFFFFFFFFO|r [QA95]
+[OC]Stormwind City
+|cFFFFFFFFX|r [QA1243]
+[OC]Thousand Needles
+|cFFFFFFFFX|r [QA1179]
+[OC]====================================
 [OC]In Darkshire
 [OC]In the inn at [TAR273]
 [QT78] [QA79]
@@ -228,8 +240,10 @@ At [TAR2789], [QT690]
 
 [OC]Run northwest along the road to Hillsbrad Foothills
 
-[OC]|cFFa335eeSpeedrunner|r |cFFa335eeFirst Aid:|r
-[OC]In Stromgarde Keep curl right from the entrance to [TAR2805]
+[OC]You can skip to the next segment and purchase these manuals from the Auction House later
+[OC]But if you're quick you can purchase them from a vendor now before your quest times out
+[OC]|cFFa335eeFirst Aid:|r
+[OC]In Stromgarde Keep turn right 3 times to [TAR2805]
 Purchase 1 [CI16084,1] 1|cFFD9BE4Cg|r
 Purchase 1 [CI16112,1] 22|cFFD0D2D7s|r
 Purchase 1 [CI16113,1] 50|cFFD0D2D7s|r

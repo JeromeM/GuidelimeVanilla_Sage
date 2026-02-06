@@ -6,6 +6,19 @@ GLV:RegisterGuide(
 [GA Alliance]
 [OC]|cFFffffffStranglethorn Vale|r
 
+[OC]====================================
+[OC]Current Quest Log: 7/20
+[OC]Hillsbrad Foothills
+|cFFFFFFFFO|r [QA555]
+|cFFFFFFFFO|r [QA563]
+[OC]Ironforge
+|cFFFFFFFFX|r [QA637]
+[OC]Thousand Needles
+|cFFFFFFFFX|r [QA5762]
+|cFFFFFFFFO|r [QA1106]
+|cFFFFFFFFX|r [QA1112]
+|cFFFFFFFFO|r [QA1180]
+[OC]====================================
 [OC]In Booty Bay
 Run along docks to [TAR4631], [QT1180] [QA1181]
 [A Warrior] At [TAR2482], try buying 1 [CI12251,1] 5|cFFD9BE4Cg|r38|cFFD0D2D7s|r96|cFFC07A50c|r

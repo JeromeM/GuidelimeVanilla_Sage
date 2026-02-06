@@ -6,6 +6,26 @@ GLV:RegisterGuide(
 [GA Alliance]
 [OC]|cFFffffffDesolace|r
 
+[OC]====================================
+[OC]Current Quest Log: 12/20
+[OC]Alterac Mountains
+|cFFFFFFFFX|r [QA525]
+[OC]Hillsbrad Foothills
+|cFFFFFFFFX|r [QA563]
+[OC]Ironforge
+|cFFFFFFFFO|r [QA1453]
+[OC]Stranglethorn Vale
+|cFFFFFFFFX|r [QA575]
+|cFFFFFFFFX|r [QA201]
+|cFFFFFFFFX|r [QA189]
+|cFFFFFFFFX|r [QA605]
+|cFFFFFFFFX|r [QA210]
+|cFFFFFFFFX|r [QA328]
+|cFFFFFFFFX|r [QA578]
+[OC]Thousand Needles
+|cFFFFFFFFX|r [QA1106]
+|cFFFFFFFFX|r [QA1112]
+[OC]====================================
 [OC]Run southeast around the mountains
 
 [OC]Continue east to the entrance of Nijel's Point
@@ -72,7 +92,7 @@ North upstairs in the inn at [TAR1182], [QA261]
 [OC]Just southeast at [TAR1322], [R][V]
 
 [OC][A Hunter] At [TAR11104], stable your pet
-[A Hunter] Use [SP1515] on [TAR5422] and learn Claw 5
+[A Hunter] Use [SP1515] on [TAR4697] and learn Claw 5
 [OC][A Hunter] Right click pet > Abandon Pet
 [OC][A Hunter] At [TAR11104], unstable your pet
 
@@ -128,39 +148,7 @@ Upstairs in the inn at [TAR1182], [QT261] [QA1052]
 Run south to [TAR5638], [QT1456] [QA1457]
 Run south to [TAR5642], [QT1440]
 
-[OC]|cFFa335eeFirst Aid 225:|r
-[A Mage] Use [SP3581], continue at Ironforge below
-[OC]Run west up the hill to flightmaster [TAR6706]
 [OC]|cFFfff8a3Fly from Nijel's Point to [F Theramore Isle], eta 04:50|r
-[OC]Run to the docks
-[OC]|cFFfff8a3Take the boat from Theramore Isle to Menethil Harbor, a boat shows up every 05:28.\\Craft bandages or fish while you wait.|r
-
-[OC]|cFFa335eeFirst Aid 225:|r
-[OC]|cFFfff8a3Fly from Menethil Harbor to [F Ironforge], eta 01:24|r
-[OC]Deposit and restock goods at the Bank and Auction House
-Level [SK First Aid 225] to 225
-[A Hunter] Learn [LE SP 13552]
-[A Mage] Learn [LE SP 8492], [LE SP 6117], [LE SP 8445]
-[A Paladin] Learn [LE SP 19836], [LE SP 20306]
-[A Priest] Learn [LE SP 6064], [LE SP 1706], [LE SP 8105], [LE SP 2767], [LE SP 10880]
-[A Human, Dwarf] [A Priest] Learn [LE SP 19240]
-[A Rogue] Learn [LE SP 2094], [LE SP 6510], [LE SP 8696]
-[A Warlock] Learn [LE SP 7648], [LE SP 5699], [LE SP 17920]
-[A Warrior] Learn [LE SP 11554], [LE SP 8380]
-Near the flightmaster in the Ironforge Physician shop at [TAR5150], [QA6625]
-
-[OC]|cFFa335eeFirst Aid 225:|r
-[OC]|cFFfff8a3Fly from Ironforge to [F Menethil Harbor], eta 02:02|r
-[OC]Run to the docks
-[OC]|cFFfff8a3Take the boat from Theramore Isle to Menethil Harbor, a boat shows up every 05:28.\\Craft bandages or fish while you wait.|r
-[OC]This quest is timed so hurry
-[OC]You must use Triage Bandage on 15 patients before 6 die
-[OC]Prioritize victims in this order: [TAR12937], [TAR12936], [TAR12938]
-Inside the keep at [TAR12939], [QT6625] [QA6624]
-Do [QC6624] (Use [UI16991] on 15 patients before 6 die)
-At [TAR12939], [QT6624]
-[OC]You will purchase other bandages here going forward
-Destroy [CI16991,0]
 
 [OC]|cFFffffffFinished|r
 [OC]Hey I'm Sage, welcome to my guides for World of Warcraft!

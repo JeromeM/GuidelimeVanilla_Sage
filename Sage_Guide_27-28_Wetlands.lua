@@ -1,11 +1,28 @@
 GLV = LibStub("GuidelimeVanilla")
 GLV:RegisterGuide(
 [[
-[N 25-28 Wetlands]
-[D *Sage Guide:* 25-28 Wetlands\\*Website:* sageguide.net\\*Discord:* tinyurl.com/sage-discord]
+[N 27-28 Wetlands]
+[D *Sage Guide:* 27-28 Wetlands\\*Website:* sageguide.net\\*Discord:* tinyurl.com/sage-discord]
 [GA Alliance]
 [OC]|cFFffffffWetlands|r
 
+[OC]====================================
+[OC]Current Quest Log: 10/20
+[OC]Darkshore
+|cFFFFFFFFO|r [QA943]
+[OC]Duskwood
+|cFFFFFFFFX|r [QA78]
+|cFFFFFFFFO|r [QA181]
+|cFFFFFFFFO|r [QA58]
+|cFFFFFFFFO|r [QA95]
+|cFFFFFFFFX|r [QA377]
+[OC]Redridge Mountains
+|cFFFFFFFFX|r [QA386]
+[OC]Wetlands
+|cFFFFFFFFO|r [QA484]
+|cFFFFFFFFO|r [QA281]
+|cFFFFFFFFO|r [QA275]
+[OC]====================================
 [OC]In Menethil
 Inside the inn at [TAR1464], buy 1 [CI2594,1] 15|cFFD0D2D7s|r
 [OC]|cFFa335eeFirst Aid:|r Upstairs in the inn at [TAR3181], level and train First Aid
@@ -36,9 +53,9 @@ Run northwest to [TAR2094], [QT484] [QA471]
 [OC]Grind further north 
 [OC][A Hunter] Right click pet > Abandon Pet
 [A Hunter] Use [SP1515] on [TAR2089] and learn Bite 4
-[A Hunter]Do [QC471] 
-[OC][A Hunter]Kill [TAR2089] (Slow) for 6 Giant Crocolisk Skin
-[A Hunter]Do [QC275] (Kill 12 [TAR1040] (Stealth)) 
+Do [QC471] 
+[OC]Kill [TAR2089] (Slow) for 6 Giant Crocolisk Skin
+Do [QC275] (Kill 12 [TAR1040] (Stealth)) 
 
 [OC]|cFFFF0000GROUP 2+|r
 [OC]Run southwest to the ship wreckage [G 14,29 Wetlands] (14, 29)
@@ -58,7 +75,6 @@ Grind northeast to Dun Modr to [TAR1071], [QT472]
 
 Run southeast to [TAR1244] [G 56.4,40.4 Wetlands] (56.4, 40.4), [QT275] 
 
-[OC]|cFFffffffLevel 26|r
 [OC]Run west to the crossroads to [TAR8305], [V]
 
 [OC]Run southwest to the Angerfang Encampment [G 47,45 Wetlands] (47, 45)  
@@ -128,23 +144,16 @@ Follow the path up the mountain to [TAR1078], [QT296]
 [OC]|cFFa335eeCooking:|rUse [UI3682]
 
 [OC]Exit the excavation site
-[OC]Run east along the road to the crossroads to [TAR8305], [R][V] 
+[OC]Run east along the road to the crossroads to [TAR8305], [R][V]
 
-[OC]Run south to Angerfang Encampment 
+[OC]Run south to Angerfang Encampment
 [OC]Grind to Dragonmaw Catapult [G 47.5,47 Wetlands] (47.5, 47)
 Loot Dragonmaw Catapult, [QT465] [QA474]
-[OC]|cFFFF0000GROUP 3+|r
+[OC]|cFFFF0000GROUP 2+|r
 [OC][A Paladin] (Grants Ancient War Sword)
 [OC][A Warrior] (Grants Ancient War Sword)
 [OC]Grind southeast to [TAR2091]
 Do [QC474] (Kill [TAR2091] for Nek'rosh's Head)
-
-[OC]|cFFffffffLevel 27|r
-[OC]Grinding has been mostly avoided up until this point in the guide
-[OC]Put on some good music and jam out
-[XP28-1200 Grind nearby until 1200 XP away from Level 28]
-
-
 
 [OC]|cFFffffffLevel 28|r
 |cFFfff8a3Hearth to [H Menethil Harbor] [V]|r
@@ -154,35 +163,10 @@ Upstairs in Menethil Keep at [TAR2104], [QT474]
 [A Warrior] Equip [UI3209]
 In the inn at [TAR1217], [QT292] [QA293]
 [OC]At the blacksmith [TAR1461], [R][V]
-[OC]Run southwest to flightmaster [TAR1571]
 [A Mage] Use [SP3581]
-[OC]Run to the flightmaster
+[OC]Run southwest to flightmaster [TAR1571]
 
 [OC]|cFFfff8a3Fly from Menethil Harbor to [F Ironforge], eta 01:24|r
-[A Hunter] Learn 26 skills: [LE SP 3045], [LE SP 13551], [LE SP 14302]
-[A Hunter] Learn 28 skills: [LE SP 14319], [LE SP 13809], [LE SP 3661], [LE SP 5384]
-[A Hunter] Learn 28 pet skills: [LE SP 14924]
-[A Hunter] Use [SP5149] to teach them to your pet
-[A Mage] Learn 24 skills: [LE SP 2139], [LE SP 8400], [LE SP 2121], [LE SP 990], [LE SP 2948]
-[A Mage] Learn 26 skills: [LE SP 120], [LE SP 8450], [LE SP 8406]
-[A Mage] Learn 28 skills: [LE SP 1461], [LE SP 6141], [LE SP 759], [LE SP 8494], [LE SP 8444]
-[A Paladin] Learn 24 skills: [LE SP 19850], [LE SP 5588], [LE SP 5599], [LE SP 2878]
-[A Paladin] Learn 26 skills: [LE SP 19939], [LE SP 10298]
-[A Paladin] Learn 28 skills: [LE SP 5614], [LE SP 19746]
-[A Priest] Learn 24 skills: [LE SP 15262], [LE SP 1245], [LE SP 3747]
-[A Priest] Learn 26 skills: [LE SP 9472], [LE SP 6076], [LE SP 992]
-[A Human] [A Priest] Learn [LE SP 19238]
-[A Night Elf] [A Priest] Learn [LE SP 19299]
-[A Priest] Learn 28 skills: [LE SP 6063], [LE SP 8104], [LE SP 8124]
-[A Rogue] Learn 24 skills: [LE SP 6762]
-[A Rogue] Learn 26 skills: [LE SP 1767], [LE SP 1833]
-[A Rogue] Learn 28 skills: [LE SP 8639], [LE SP 8687], [LE SP 2070]
-[A Warlock] Learn 24 skills: [LE SP 6223]
-[A Warlock] Learn 26 skills: [LE SP 1714], [LE SP 1456], [LE SP 132], [LE SP 17919]
-[A Warlock] Learn 28 skills: [LE SP 710], [LE SP 6217], [LE SP 3699], [LE SP 1106]
-[A Warrior] Learn 24 skills: [LE SP 6190], [LE SP 5308], [LE SP 1608]
-[A Warrior] Learn 26 skills: [LE SP 6178]
-[A Warrior] Learn 28 skills: [LE SP 7887]
 [OC]Run southeast to the military ward
 In the Hall of Arms at [TAR2092], [QA1179]
 [A Mage] Use [SP665]
@@ -191,21 +175,29 @@ In the Hall of Arms at [TAR2092], [QA1179]
 [OC][A Warlock]There are many steps, investigate how to do them if interested
 
 [OC]|cFFfff8a3Fly from Ironforge to [F Stormwind], eta 03:20|r
-[A Druid] Learn 24 skills: [LE SP 1822], [LE SP 8939], [LE SP 2782], [LE SP 1075], [LE SP 5217]
-[A Druid] Learn 26 skills: [LE SP 2893], [LE SP 1850], [LE SP 5189], [LE SP 3029]
-[A Druid] Learn 28 skills: [LE SP 5195], [LE SP 2091], [LE SP 9492] 
+[A Druid] Learn 28 skills: [LE SP 5195], [LE SP 2091], [LE SP 9492]
+[A Hunter] Learn 28 skills: [LE SP 14319], [LE SP 13809], [LE SP 3661], [LE SP 5384]
+[A Hunter] Learn 28 pet skills: [LE SP 14924]
+[A Hunter] Use [SP5149] to teach them to your pet
+[A Mage] Learn 28 skills: [LE SP 1461], [LE SP 6141], [LE SP 759], [LE SP 8494], [LE SP 8444]
+[A Paladin] Learn 28 skills: [LE SP 5614], [LE SP 19746]
+[A Priest] Learn 28 skills: [LE SP 6063], [LE SP 8104], [LE SP 8124]
+[A Rogue] Learn 28 skills: [LE SP 8639], [LE SP 8687], [LE SP 2070]
+[A Warlock] Learn 28 skills: [LE SP 710], [LE SP 6217], [LE SP 3699], [LE SP 1106]
+[A Warrior] Learn 28 skills: [LE SP 7887]
 [OC]Run to the Cathedral of Light in Cathedral Square 
 At [TAR1284], [QT293]
-At [TAR4982], [QA1274]
+At [TAR4982], [QA1274] 
 [OC]Run northeast to Stormind Keep to [TAR4960] 
 [QT1274] [QA1241]
-Run southeast outside the city to [TAR4959], [QT1241] [QA1242]
-Back in the city at [TAR482], [QT1242] [QA1243]
+[OC]Run southeast outside the city to [TAR4959]
+[QT1241] [QA1242]
+[OC]Back in the city at [TAR482]
+[QT1242] [QA1243]
 [OC]Deposit and restock goods at the Bank and Auction House
 
-[OC]|cFFFFFFFF(Dungeon)|r Stockades |cFFFF0000Optional:|r (Not recommended)
-
 [OC]|cFFfff8a3Fly from Stormwind to [F Lakeshire], eta 01:47|r
+At [TAR859], [QT386]
 At [TAR903], [QA128]
 At [TAR415], [QA126]
 In the main hall at [TAR900], [QA91]
@@ -234,6 +226,7 @@ In the main hall at [TAR344], [QT180]
 Run south across the bridge to [TAR903], [QT128]
 
 [OC]|cFFfff8a3Fly from Lakeshire to [F Darkshire], eta 01:03|r
+At [TAR270], [QT377]
 
 [OC]|cFFffffffFinished|r
 [OC]Hey I'm Sage, welcome to my guides for World of Warcraft!
